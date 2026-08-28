@@ -1,5 +1,13 @@
 # rustils_async
 
+> **This repo has moved.** `rustils_async` now lives at
+> [`crates/rustils_async`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rustils_async)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo,
+> merged in with its full commit history via `git subtree`. This repo is
+> kept for historical reference (issues, PRs, prior releases) but is no
+> longer where development happens -- open new issues and PRs against
+> `rusty_mill` instead.
+
 A native-async sibling to [`rustils`](https://github.com/baileyrd/rustils),
 built to satisfy [`rusty_foundation_akb`](https://github.com/Rusty-Mill/rusty_foundation_akb)'s
 requirement that platform crates support async and multithreading.
